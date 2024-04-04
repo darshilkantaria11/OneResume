@@ -42,7 +42,7 @@ const DefaultResumeData = {
     {
       "title": "1Resume",
       "name": "OneResume",
-      "link": "http://localhost:3000/",
+      "link": "https://one-resume.vercel.app/",
       "description": "This online resume generator, built with Next.js and Tailwind CSS, simplifies the process of creating professional resumes.  Users can easily input their details, use pre-designed template, and instantly download a high-quality PDF resume, saving time and effort in their job search.(this resume itself is created by this project)",
       "keyAchievements": "Next.js Integration\nTailwind CSS Implementation\nPDF Generation",
       "startYear": "2024-01-19", "endYear": "2024-04-04", 

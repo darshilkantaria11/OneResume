@@ -51,8 +51,8 @@ const DefaultResumeData = {
       "title": "Google Search API",
       "name": "Google Search API",
       "link": "https://rapidapi.com/darshilkantaria11/api/google-top-search",
-      "description": "This online resume generator, built with Next.js and Tailwind CSS, simplifies the process of creating professional resumes.  Users can easily input their details, use pre-designed template, and instantly download a high-quality PDF resume, saving time and effort in their job search.",
-      "keyAchievements": "Next.js Integration\nTailwind CSS Implementation\nPDF Generation",
+      "description": "built using Node.js and Express.js, harnesses the power of Google search to deliver precise and relevant results instantly. With just a simple query, users can access a curated list of the top 10 search results, complete with titles, descriptions, and direct links. Whether you're looking for answers, researching topics, or seeking information, our API provides a streamlined and efficient solution. Hosted on RapidAPI, our service offers seamless integration and reliable performance, empowering developers to enhance their applications with robust search capabilities. Experience the convenience of our API and unlock the vast knowledge of the web with ease.",
+      "keyAchievements": "Node.js Integration\n",
       "startYear": "2023-07-19", "endYear": "2023-08-04", 
      },
     

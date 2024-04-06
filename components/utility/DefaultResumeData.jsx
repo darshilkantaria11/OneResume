@@ -52,7 +52,7 @@ const DefaultResumeData = {
       "name": "Google Search API",
       "link": "https://rapidapi.com/darshilkantaria11/api/google-top-search",
       "description": "built using Node.js and Express.js, harnesses the power of Google search to deliver precise and relevant results instantly. With just a simple query, users can access a curated list of the top 10 search results, complete with titles, descriptions, and direct links. Whether you're looking for answers, researching topics, or seeking information, our API provides a streamlined and efficient solution. Hosted on RapidAPI, our service offers seamless integration and reliable performance, empowering developers to enhance their applications with robust search capabilities. Experience the convenience of our API and unlock the vast knowledge of the web with ease.",
-      "keyAchievements": "Node.js Integration\n",
+      "keyAchievements": "Node.js Integration",
       "startYear": "2023-07-19", "endYear": "2023-08-04", 
      },
     
